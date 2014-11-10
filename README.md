@@ -5,7 +5,8 @@ An example creating a Vagrant / Puphpet VM for NodeJS development
 
 ## Intro
 
-I created this VM as an easy way to distribute an example for a REST API presentation
+I created this VM as an easy way to distribute an example for a REST API presentation.
+
 Presentation is also included in the folder with the same name.
 
 ## HTTP Presentation
